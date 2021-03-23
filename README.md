@@ -1,8 +1,8 @@
 # GAIH Student Repo Example
 ![](img/logo.png)
 
-**Course Date:**
-**Name:** Funda**
+**Course Date:22.03.2021 **
+**Name:** Funda 
 **Surname:** Çetin
 **Email:** fndhnf@yahoo.com  
 
