@@ -2,7 +2,7 @@
 ![](img/logo.png)
 
 **Course Date:**
-**Name:** Funda
+**Name:** Funda**
 **Surname:** Çetin
 **Email:** fndhnf@yahoo.com  
 
